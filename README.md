@@ -11,3 +11,4 @@ Welcome to the Table:
 Always Leave Table in ORDER
 
 - [6_volleyballResults](https://github.com/christiangrier/CodeSignalDB/tree/main/6_volleyballResults)
+- [7_mostExpensive](https://github.com/christiangrier/CodeSignalDB/tree/main/7_mostExpensive)
