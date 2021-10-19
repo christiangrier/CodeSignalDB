@@ -14,4 +14,4 @@ Always Leave Table in ORDER
 2. [mostExpensive](https://github.com/christiangrier/CodeSignalDB/tree/main/7_mostExpensive)
 3. [contestLeaderboard](https://github.com/christiangrier/CodeSignalDB/tree/main/8_contestLeaderboard)
 4. [gradeDistribution](https://github.com/christiangrier/CodeSignalDB/tree/main/9_gradeDistribution)
-5. [10_mischievousNephews](https://github.com/christiangrier/CodeSignalDB/tree/main/10_mischievousNephews)
+5. [mischievousNephews](https://github.com/christiangrier/CodeSignalDB/tree/main/10_mischievousNephews)
