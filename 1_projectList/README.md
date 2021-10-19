@@ -12,4 +12,9 @@ You have stored the information about these projects in a simple database with a
 
 Your boss says that internal project ids are irrelevant to him and that he isn't interested in how big the teams are. Since that's the case, he wants you to create another table by removing the internal_id and team_size columns from the existing Projects table. Return it sorted by internal_id in ascending order.
 
-[execution time limit] 10 seconds (mysql)
+Ending Results:
+
+| project_name  | team_lead | income |
+| ------------- | --------- | ------ |
+|               |           |        |
+
