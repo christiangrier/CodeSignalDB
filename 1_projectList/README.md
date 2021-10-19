@@ -16,5 +16,3 @@ Ending Results:
 
 | project_name  | team_lead | income |
 | ------------- | --------- | ------ |
-|               |           |        |
-
