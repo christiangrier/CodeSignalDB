@@ -12,3 +12,8 @@ Information about the project's activity is stored in table projectLog, which ha
 You only have access to the project's most recent history, but this should be enough for you. You've decided that finding everyone who interacted with the project in this period is the best way to start.
 
 Given the table projectLog, build a new results table with a single name column that contains the names of the project's contributors sorted in ascending order.
+
+Ending Results:
+
+| name  |
+| ----- |
