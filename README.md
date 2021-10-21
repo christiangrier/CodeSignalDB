@@ -8,10 +8,14 @@ Welcome to the Table:
 4. [projectTeams](https://github.com/christiangrier/CodeSignalDB/tree/main/4_projectTeams)
 5. [automaticNotification](https://github.com/christiangrier/CodeSignalDB/tree/main/5_automaticNotification)
 
-Always Leave Table in ORDER
+Always Leave Table in ORDER:
 
 1. [volleyballResults](https://github.com/christiangrier/CodeSignalDB/tree/main/6_volleyballResults)
 2. [mostExpensive](https://github.com/christiangrier/CodeSignalDB/tree/main/7_mostExpensive)
 3. [contestLeaderboard](https://github.com/christiangrier/CodeSignalDB/tree/main/8_contestLeaderboard)
 4. [gradeDistribution](https://github.com/christiangrier/CodeSignalDB/tree/main/9_gradeDistribution)
 5. [mischievousNephews](https://github.com/christiangrier/CodeSignalDB/tree/main/10_mischievousNephews)
+
+Would you LIKE the Second Meal:
+
+1. [suspectInvestigation](https://github.com/christiangrier/CodeSignalDB/tree/main/11_suspectsInvestigation)
