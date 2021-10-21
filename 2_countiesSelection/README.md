@@ -9,3 +9,8 @@ Here's the assignment: Given a list of countries, your friend should identify al
     population: the country's population.
 
 Your task is to return a new table that has the same columns, but that only contains the countries from Africa. The countries should be sorted alphabetically by their names.
+
+Ending Results:
+
+| name  | continent | population |
+| ----- | --------- | ---------- |
