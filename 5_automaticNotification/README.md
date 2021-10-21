@@ -12,3 +12,8 @@ You want to send users automatic notifications to let them know about the most r
 Given the users table, your task is to return the emails of all the users who should get notifications, i.e. those whose role is not equal to "admin" or "premium". Note that roles are case insensitive, so users with roles of "Admin", "pReMiUm", etc. should also be excluded.
 
 The resulting table should contain a single email column and be sorted by emails in ascending order.
+
+Ending Results:
+
+| email  |
+| ------ | 
