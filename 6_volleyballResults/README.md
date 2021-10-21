@@ -11,3 +11,8 @@ The results table contains the following columns:
     wins - the total number of games the team has won.
 
 Your task is to sort the given results table in ascending order by the number of wins.
+
+Ending Results:
+
+| name  | country | scored | missed | wins |
+| ----- | ------- | ------ | ------ | ---- | 
