@@ -23,3 +23,4 @@ Would you LIKE the Second Meal:
 3. [securityBreach](https://github.com/christiangrier/CodeSignalDB/tree/main/13_securityBreach)
 4. [testCheck](https://github.com/christiangrier/CodeSignalDB/tree/main/14_testCheck)
 5. [expressionsVerification](https://github.com/christiangrier/CodeSignalDB/tree/main/15_expressionsVerification)
+6. [newsSubscriber](https://github.com/christiangrier/CodeSignalDB/tree/main/16_newsSubscribers)
