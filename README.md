@@ -22,3 +22,4 @@ Would you LIKE the Second Meal:
 2. [suspectInvestigation2](https://github.com/christiangrier/CodeSignalDB/tree/main/12_suspectInvestigation2)
 3. [securityBreach](https://github.com/christiangrier/CodeSignalDB/tree/main/13_securityBreach)
 4. [testCheck](https://github.com/christiangrier/CodeSignalDB/tree/main/14_testCheck)
+5. [expressionsVerification](https://github.com/christiangrier/CodeSignalDB/tree/main/15_expressionsVerification)
