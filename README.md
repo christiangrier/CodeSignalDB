@@ -19,3 +19,4 @@ Always Leave Table in ORDER:
 Would you LIKE the Second Meal:
 
 1. [suspectInvestigation](https://github.com/christiangrier/CodeSignalDB/tree/main/11_suspectsInvestigation)
+2. [suspectinvestication2](https://github.com/christiangrier/CodeSignalDB/tree/main/12_suspectInvestigation2)
