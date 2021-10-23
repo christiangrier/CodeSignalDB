@@ -28,3 +28,4 @@ Would you LIKE the Second Meal:
 GROUP Dishes BY Type:
 
 1. [countriesInfo](https://github.com/christiangrier/CodeSignalDB/tree/main/17_countriesInfo)
+2. [itemCounts](https://github.com/christiangrier/CodeSignalDB/tree/main/18_itemCounts)
