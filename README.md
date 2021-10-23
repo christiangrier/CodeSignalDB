@@ -24,3 +24,7 @@ Would you LIKE the Second Meal:
 4. [testCheck](https://github.com/christiangrier/CodeSignalDB/tree/main/14_testCheck)
 5. [expressionsVerification](https://github.com/christiangrier/CodeSignalDB/tree/main/15_expressionsVerification)
 6. [newsSubscriber](https://github.com/christiangrier/CodeSignalDB/tree/main/16_newsSubscribers)
+
+GROUP Dishes BY Type:
+
+1. [countriesInfo](https://github.com/christiangrier/CodeSignalDB/tree/main/17_countriesInfo)
