@@ -30,3 +30,4 @@ GROUP Dishes BY Type:
 1. [countriesInfo](https://github.com/christiangrier/CodeSignalDB/tree/main/17_countriesInfo)
 2. [itemCounts](https://github.com/christiangrier/CodeSignalDB/tree/main/18_itemCounts)
 3. [usersByContinent](https://github.com/christiangrier/CodeSignalDB/tree/main/19_usersByContinent)
+4. [movieDirectors](https://github.com/christiangrier/CodeSignalDB/tree/main/20_movieDirectors)
