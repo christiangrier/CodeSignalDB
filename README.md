@@ -1,7 +1,6 @@
 **Table of Contents:**
 
 Welcome to the Table: 
-- 1 - 5
 
 1. [projectList](https://github.com/christiangrier/CodeSignalDB/tree/main/1_projectList)
 2. [countriesSelection](https://github.com/christiangrier/CodeSignalDB/tree/main/2_countiesSelection)
