@@ -33,3 +33,4 @@ GROUP Dishes BY Type:
 4. [movieDirectors](https://github.com/christiangrier/CodeSignalDB/tree/main/20_movieDirectors)
 5. [travelDiary](https://github.com/christiangrier/CodeSignalDB/tree/main/21_travelDiary)
 6. [soccerPlayers](https://github.com/christiangrier/CodeSignalDB/tree/main/22_soccerPlayers)
+7. [marketReport](https://github.com/christiangrier/CodeSignalDB/tree/main/23_marketReport)
