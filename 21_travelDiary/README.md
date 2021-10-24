@@ -1,3 +1,7 @@
+Resources:
+- https://www.geeksforgeeks.org/mysql-group_concat-function/
+- https://www.w3resource.com/mysql/aggregate-functions-and-grouping/aggregate-functions-and-grouping-group_concat.php
+
 Description:
 
 You are an avid traveler and you've visited so many countries that when people ask you where you've been, you can't even remember all of them! Luckily, every time you travel somewhere you write down the trip information in your diary. Now you want to get a list of all the different countries that you have visited using the information in your diary.
