@@ -34,3 +34,7 @@ GROUP Dishes BY Type:
 5. [travelDiary](https://github.com/christiangrier/CodeSignalDB/tree/main/21_travelDiary)
 6. [soccerPlayers](https://github.com/christiangrier/CodeSignalDB/tree/main/22_soccerPlayers)
 7. [marketReport](https://github.com/christiangrier/CodeSignalDB/tree/main/23_marketReport)
+
+Time for Tricks:
+
+1. [websiteHacking](https://github.com/christiangrier/CodeSignalDB/tree/main/24_websiteHacking)
