@@ -38,3 +38,13 @@ GROUP Dishes BY Type:
 Time for Tricks:
 
 1. [websiteHacking](https://github.com/christiangrier/CodeSignalDB/tree/main/24_websiteHacking)
+2. [nullIntern](https://github.com/christiangrier/CodeSignalDB/tree/main/25_nullIntern)
+3. [legsCount](https://github.com/christiangrier/CodeSignalDB/tree/main/26_legsCount)
+4. [combinationLock](https://github.com/christiangrier/CodeSignalDB/tree/main/27_combinationLock)
+
+Specialties:
+
+1. [interestClub](https://github.com/christiangrier/CodeSignalDB/tree/main/28_interestClub)
+2. [personalHobbies](https://github.com/christiangrier/CodeSignalDB/tree/main/29_personalHobbies)
+3. [booksCatalogs](https://github.com/christiangrier/CodeSignalDB/tree/main/30_booksCatalogs)
+4. [habitatArea](https://github.com/christiangrier/CodeSignalDB/tree/main/31_habitatArea)
